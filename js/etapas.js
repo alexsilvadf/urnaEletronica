@@ -4,7 +4,7 @@ let etapas = [
         numeros: 5,
         candidatos: [
             {
-                numero: '12345',
+                numero: '40222',
                 nome: 'Farley Eduardo',
                 partido: 'PSB',
                 fotos:[
@@ -26,7 +26,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: '55',
+                numero: '40',
                 nome: 'Zenúbia Alves',
                 partido: 'PSB',
                 vice: 'Ney Marley',
